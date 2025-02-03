@@ -1,0 +1,13 @@
+name: pom-framework-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+      - selenium
+      - Appium-Python-Client
+      - pytest
+      - openpyxl
+      - pytest-html
+      - allure-pytest

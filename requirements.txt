@@ -1,0 +1,7 @@
+selenium
+Appium-Python-Client
+pytest
+openpyxl
+pytest-html
+allure-pytest
+# Additional libraries as required
